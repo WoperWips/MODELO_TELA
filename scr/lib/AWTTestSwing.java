@@ -1,4 +1,4 @@
-package scr;
+package scr.lib;
 import javax.swing.*; // Importa as classes necessárias do pacote Swing
 import java.awt.*; // Importa as classes necessárias do pacote AWT
 
